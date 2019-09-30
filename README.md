@@ -1,5 +1,4 @@
 # CS220_HPC_Assignment_2
-Concurrency with Python
 
 The speed of app.py:
 real	0m0.113s
